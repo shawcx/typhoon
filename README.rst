@@ -1,0 +1,5 @@
+
+typhoon
+=======
+
+Python Obfuscator
