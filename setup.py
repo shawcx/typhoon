@@ -15,7 +15,7 @@ setup(
     license          = __license__,
     description      = 'Python code obfuscator',
     long_description = open('README.rst').read(),
-    url              = 'https://github.com/moertle/typhoon',
+    url              = 'https://github.com/shawcx/typhoon',
     entry_points = {
         'console_scripts': [
             'typhoon = typhoon.main:main',
