@@ -3,11 +3,11 @@
 import sys
 import os
 
-from setuptools import setup
+import setuptools
 
 exec(compile(open('typhoon/version.py').read(),'version.py','exec'))
 
-setup(
+setuptools.setup(
     name             = 'typhoon',
     author           = __author__,
     author_email     = __email__,
