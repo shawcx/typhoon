@@ -1,4 +1,6 @@
 *.pyc
 /build
 /dist
-/typhoon.egg-info
+/deb_dist
+/*.egg-info
+/*.tar.gz
